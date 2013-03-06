@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Magazine1",
+    "title": "Forbes India Magazine Test1",
+    "info": "A descriptive magazine",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  },
+  {
+    "name": "Magazine2",
+    "title": "Forbes India Magazine Test2",
+    "info": "An exciting remake of the original, with added mint!",
+    "date": "2010-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-green.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-green.hpub"
+  },
+{
+    "name": "Magazine3",
+    "title": "Forbes India Magazine Test3",
+    "info": "The original masterpiece",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  },
+{
+    "name": "Magazine4",
+    "title": "Forbes India Magazine Test4",
+    "info": "An entertainment magazine",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  },
+{
+    "name": "Magazine5",
+    "title": "Forbes India Magazine Test5",
+    "info": "Sports magazine specially designed for sportspersons",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  },
+{
+    "name": "Magazine6",
+    "title": "Forbes India Magazine Test6",
+    "info": "The original masterpiece",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  },
+{
+    "name": "Magazine7",
+    "title": "Forbes India Magazine Test7",
+    "info": "This is a bussiness magazine ",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  },
+{
+    "name": "Magazine8",
+    "title": "Forbes India Magazine Test8",
+    "info": "Magazine designed for children's",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  },
+{
+    "name": "Magazine9",
+    "title": "Forbes India Magazine Test9",
+    "info": "The original masterpiece",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  },
+{
+    "name": "Magazine10",
+    "title": "Forbes India Magazine Test10",
+    "info": "Magazine designed for senior citizens",
+    "date": "1887-10-10 10:10:10",
+    "cover": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.png",
+    "url": "http://bakerframework.com/newsstand-books/a-study-in-scarlet.hpub",
+    "product_id": "com.example.Baker.issues.january2013"
+  }
+  
+
+  
+]
